@@ -20,7 +20,8 @@
 ### - Implementar operações de CRUD – Create, Retrieve, Update, Delete
 
 ### - Realizar um design para um banco de dados orientado a documentos
-  image
+  
+  ![Estrutura_UML](https://github.com/LucasRafaell/workshop-spring-boot-mongodb/assets/99283985/bcb3f38b-1815-4b2e-bfce-bc54126e05a7)
   
 ### Linguagem, framework e ferramentas utilizadas
 <div style="display: inline_block">

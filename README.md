@@ -1,6 +1,6 @@
 # API REST Java Spring Boot com MongoDB 
 
-<p>Uma API simples que registra posts com comentários e os usuários participantes e os categoriza de maneira a definir suas colaborações.</p>
+<p>Uma API simples que registra posts com comentários e usuários participantes, categorizando-os de maneira a definir suas colaborações.</p>
 <p>No exemplo abaixo é demonstrada uma consulta por posts com vários critérios, é perceptível pelo endpoint utilizando o método de busca GET e categorizando que a busca é por posts, atendendo a condição de que no texto da postagem esteja presente a String “bom” e tendo como data máxima 22/03/2018.</p>
 
 ![consulta_postman](https://github.com/LucasRafaell/workshop-spring-boot-mongodb/assets/99283985/7ab35999-15f3-49b3-a408-c49d92888869)
